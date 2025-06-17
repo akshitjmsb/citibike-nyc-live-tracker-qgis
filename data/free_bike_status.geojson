@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.974065, 40.751776]}, "properties": {"bike_id": "ed5cdbbe0f4dca91", "battery": 0.95, "vehicle_type": "electric_bike"}}]}
